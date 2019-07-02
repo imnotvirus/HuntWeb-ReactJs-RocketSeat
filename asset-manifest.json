@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HuntWeb-ReactJs-RocketSeat/static/css/main.3a745c63.chunk.css",
+    "main.js": "/HuntWeb-ReactJs-RocketSeat/static/js/main.f23dc82e.chunk.js",
+    "main.js.map": "/HuntWeb-ReactJs-RocketSeat/static/js/main.f23dc82e.chunk.js.map",
+    "runtime~main.js": "/HuntWeb-ReactJs-RocketSeat/static/js/runtime~main.3f163c25.js",
+    "runtime~main.js.map": "/HuntWeb-ReactJs-RocketSeat/static/js/runtime~main.3f163c25.js.map",
+    "static/js/2.f153c23e.chunk.js": "/HuntWeb-ReactJs-RocketSeat/static/js/2.f153c23e.chunk.js",
+    "static/js/2.f153c23e.chunk.js.map": "/HuntWeb-ReactJs-RocketSeat/static/js/2.f153c23e.chunk.js.map",
+    "index.html": "/HuntWeb-ReactJs-RocketSeat/index.html",
+    "precache-manifest.9127c82ad7dc1fc0e0412b5fb00c6cae.js": "/HuntWeb-ReactJs-RocketSeat/precache-manifest.9127c82ad7dc1fc0e0412b5fb00c6cae.js",
+    "service-worker.js": "/HuntWeb-ReactJs-RocketSeat/service-worker.js",
+    "static/css/main.3a745c63.chunk.css.map": "/HuntWeb-ReactJs-RocketSeat/static/css/main.3a745c63.chunk.css.map"
+  }
+}
