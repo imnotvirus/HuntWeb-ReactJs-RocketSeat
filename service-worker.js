@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HuntWeb-ReactJs-RocketSeat/precache-manifest.9127c82ad7dc1fc0e0412b5fb00c6cae.js"
+  "/HuntWeb-ReactJs-RocketSeat/precache-manifest.d9d33c19d2b7f0f2ad1fdff7868ff13d.js"
 );
 
 self.addEventListener('message', (event) => {
