@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52fd8db2d7e47350d65bd60c7cbc0dc5",
+    "revision": "4d9746e83a6886c07fae78cf5b26175e",
     "url": "/HuntWeb-ReactJs-RocketSeat/index.html"
   },
   {
-    "revision": "ab7acb4911f5a2c7e3cf",
+    "revision": "41e1757d0133ac035a6c",
     "url": "/HuntWeb-ReactJs-RocketSeat/static/css/main.3a745c63.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HuntWeb-ReactJs-RocketSeat/static/js/2.f153c23e.chunk.js"
   },
   {
-    "revision": "ab7acb4911f5a2c7e3cf",
-    "url": "/HuntWeb-ReactJs-RocketSeat/static/js/main.1d10eecb.chunk.js"
+    "revision": "41e1757d0133ac035a6c",
+    "url": "/HuntWeb-ReactJs-RocketSeat/static/js/main.930c4e76.chunk.js"
   },
   {
     "revision": "1bd563c900fda702611e",
